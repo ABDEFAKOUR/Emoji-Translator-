@@ -12,7 +12,7 @@ A simple Python application that converts English words into emojis.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/emoji-translator.git
+git clone https://github.com/ABDEFAKOUR/emoji-translator.git
 ```
 
 ## Run
